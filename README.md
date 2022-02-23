@@ -1,0 +1,2 @@
+# kurss
+Programmēšana II
